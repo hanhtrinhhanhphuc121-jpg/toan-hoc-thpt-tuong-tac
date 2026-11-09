@@ -20,4 +20,3 @@ export default defineConfig(() => {
     },
   };
 });
-base: '/toan-hoc-thpt-tuong-tac/',
