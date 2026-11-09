@@ -31,7 +31,7 @@ jobs:
             npm install
           fi
 
-           - name: Build app
+            - name: Build app
         run: npx --no-install vite build --base=/toan-hoc-thpt-tuong-tac/
       - uses: actions/configure-pages@v6
 
