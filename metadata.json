@@ -1,0 +1,8 @@
+{
+  "name": "TOÁN HỌC THPT TƯƠNG TÁC (MOI)",
+  "description": "Ứng dụng Toán học THPT tương tác trực quan 27 phân hệ cho giáo viên trình chiếu, soạn học liệu và học sinh tự học. Người phát triển: Trầm Cao Bách - lớp 10.5 (Trường THCS và THPT Long Hiệp).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
